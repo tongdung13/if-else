@@ -20,8 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e56257ab-dfb7-4663-8234-8aef253be966" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ife.html" beforeDir="false" afterPath="$PROJECT_DIR$/ife.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ifel.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +38,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iZmaOduQ36ZlLbavJsjlCTKIFY" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -76,7 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602123551204</updated>
       <workItem from="1602123552829" duration="3948000" />
-      <workItem from="1602133923375" duration="2263000" />
+      <workItem from="1602133923375" duration="3047000" />
     </task>
     <servers />
   </component>
