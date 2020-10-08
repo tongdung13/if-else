@@ -20,7 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e56257ab-dfb7-4663-8234-8aef253be966" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ifel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ifels.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ifel.html" beforeDir="false" afterPath="$PROJECT_DIR$/ifel.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +80,8 @@
       <option name="presentableId" value="Default" />
       <updated>1602123551204</updated>
       <workItem from="1602123552829" duration="3948000" />
-      <workItem from="1602133923375" duration="3047000" />
+      <workItem from="1602133923375" duration="4191000" />
+      <workItem from="1602138185403" duration="1006000" />
     </task>
     <servers />
   </component>
@@ -95,6 +98,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1345" height="223" key="GridCell.Tab.0.bottom" timestamp="1602133872081">
